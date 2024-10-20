@@ -2,23 +2,11 @@
 This is a basic calculator made by using HTML, CSS, and JavaScript
 First To Run, 
 Run
-`
- git clone https://github.com/ADW-Development/HTMLCSSJSCalc.git
 
-`
+ `git clone https://github.com/ADW-Development/HTMLCSSJSCalc.git`
 Then:
-
-
-`
-
-cd HTMLCSSJSCalc
-
-`
+`cd HTMLCSSJSCalc`
 
 Then:
-
-`
-Index.html
-
-`
+`Index.html`
 You're Done  Now!
